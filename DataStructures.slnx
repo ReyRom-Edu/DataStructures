@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Graph/Graph.csproj" />
+  <Project Path="Stack/Stack.csproj" />
+  <Project Path="Tree/Tree.csproj" />
+</Solution>
